@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: #f2f2f2;
+    font-family: Roboto;
+    margin-bottom: 1000px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
