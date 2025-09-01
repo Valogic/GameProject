@@ -3,7 +3,7 @@ header {
     background-color: #669900;
 }
 
-.container {
+.container-header {
     width: auto;
     height: auto;
     background-image: url("../images/background-blur.png");
@@ -22,7 +22,7 @@ header {
 
 .nav-bar {
     background-color: #669900;
-    width: 1110px;
+    width: 1180px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -30,7 +30,7 @@ header {
 
 .nav-bar ul {
     display: flex;
-    width: 1110px;
+    width: 1180px;
     justify-content: space-evenly;
     list-style-type: none;
     align-items: center;
@@ -101,6 +101,5 @@ header {
 }
 
 .logo {
-    width: 520px;
-    height: 250px;
+    width: 400px;
 }
